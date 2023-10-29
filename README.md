@@ -66,3 +66,10 @@ To deploy this project run backend server BACKEND-KEEPER/
 
 ## 🔗 Links
 [![Github](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/meh-work/)
+
+
+## ScreenShots
+![Screenshot (49)](https://github.com/meh-work/keeper-app/assets/134065583/1c6db206-7044-49ca-8b29-bcf0ff27b9e6)
+
+![Screenshot (50)](https://github.com/meh-work/keeper-app/assets/134065583/a83c6e72-7e2a-4232-be5b-0ebd1e220a0a)
+
